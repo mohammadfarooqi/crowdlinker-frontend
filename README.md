@@ -1,3 +1,3 @@
 # crowdlinker-frontend
 
-link to browse: http://crowdlinker-frontend.herokupapp.com/
+link to browse: http://crowdlinker-frontend.herokuapp.com/
